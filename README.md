@@ -19,6 +19,7 @@ npm run build
 ```
 npm run lint
 ```
+Partindo do fato de que a internet assume papel fundamental, uma vez que vem gerando grandes mudanças na maneira de buscar e obter informações sobre turismo, produtos e serviço. A ideia de formular uma ferramenta que visa auxiliar o turista. O turistando fornece eventos, pontos turisticos, rotas turísticas e estabelecimentos.
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
